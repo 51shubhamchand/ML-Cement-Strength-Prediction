@@ -3,7 +3,7 @@
 
 
 ### Brief:
-Used Random Forest Machine Learning algorith to predict the strength of cement based on given inputs.
+Used Random Forest Machine Learning algorithm to predict the strength of cement based on given inputs.
 
 R2 score = 0.98
 
