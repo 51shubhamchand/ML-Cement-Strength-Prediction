@@ -2,8 +2,7 @@
 
 ## Brief:
 Used Linear Regression Machine Learning algorith to predict the strength of cement based on given inputs.
-
-## R2 score = 0.9853928104841168
+R2 score of trained model = 0.9853928104841168
 
 ## Dashboard Link: 
 https://51shubhamchand-ml-cement-strength-prediction-streamlit-yejcfk.streamlit.app/
