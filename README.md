@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/36957216/215263812-87c5ac75-3316-4910-99cd-5e62e60ba4d4.png)
-<h1 align="center" style="margin-top: 0px;">ML-Cement-Strength-Prediction</h1>
+<h1 align="center" style="margin-top: 0px;">Cement Strength Prediction</h1>
 
 
 ### Brief:
