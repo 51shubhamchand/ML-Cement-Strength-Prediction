@@ -21,3 +21,8 @@ https://51shubhamchand-ml-cement-strength-prediction-streamlit-yejcfk.streamlit.
 
 ### References:
 * https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
+
+## Regards:
+**Shubham Chand**
+- Github: [@51shubhamchand](https://github.com/51shubhamchand)
+- LinkedIn: [@shubham-chand-12100189](https://www.linkedin.com/in/shubham-chand-12100189)
