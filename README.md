@@ -7,6 +7,10 @@ Used Linear Regression Machine Learning algorith to predict the strength of ceme
 
 R2 score = 0.98
 
+### Features:
+* Used Machine Learning to predict valid values for columns having NULL value.
+* Used Lazy Predict library to predict the best model.
+* In Hyper-parameter tuning, manually tuned the parameters. It gave better result than RandomSearchCV.
 
 ### Dashboard Link: 
 https://51shubhamchand-ml-cement-strength-prediction-streamlit-yejcfk.streamlit.app/
